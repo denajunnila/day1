@@ -1,0 +1,71 @@
+
+body{
+	background-color:#8DC63F;
+	color:#FFFFFF;
+
+}
+.container{
+	width:90%;
+	background-color: orange;
+	margin: 0px auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin: 0px auto;
+
+}
+header, footer, nav{
+	width: 80%;
+	margin: 0px auto;
+	}
+
+header {
+	background-color: green;
+	height:75px;	
+}
+nav {
+		background-color: blue;
+		height:25px;
+}
+main {
+		background-color: red;
+		width:60%;
+		height:200px;
+		float:left;
+		margin-left:10%;
+
+}
+aside{
+		background-color: aqua;
+		width:20%;
+		height:200px;
+		float: left;
+		
+}
+footer{
+		background-color: grey;
+		height: 75px;
+		clear: both;
+}
+
+
+/*headerGreen{
+	background-color:;
+
+}
+
+blue{
+	background-color: 
+
+}
+
+
+contentRed{
+	background-color: 
+
+}
+asideAqua{
+
+}
+footerGrey{
+
+}*/
